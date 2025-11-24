@@ -1,12 +1,13 @@
-# Welcome To My Page ✨ 
+### 🌟 Welcome to My Page!
 
 🫱🐟 🫱🐟 🫱🐟 
 
-I am an Unreal Engine Gameplay Programmer.
+👋 Hi there! I’m an **Unreal Engine Gameplay Programmer**, passionate about designing systems that feel smooth, responsive, and fun to play.
 
-Loving playing games and Dreaming to make GalGame💕
+🎮 I love playing games, and someday I hope to **create my own GalGame** 💕
 
-Welcome to my [**Blog**](https://www.nekonet.cn/) (~Nothing in my blog, becase lazy to udate~)
+📚 You can check out my [**Blog**](https://www.nekonet.cn/) ~ *(currently empty because my laziness is undefeated)* 😅  
+> ~~I’ll update it someday… probably.~~
 
 ----------------------
 
